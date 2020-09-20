@@ -47,7 +47,6 @@ if number >= 1:
     print("1")
 else:
     print("0") 
-print(bin(number))
  
 
     
